@@ -1,0 +1,64 @@
+{
+  "menu": [
+    {
+      "url": "/dashboard",
+      "name": "Inicio",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard"
+    },
+    {
+      "menuHeader": "Perfumes"
+    },
+    {
+      "url": "/perfumes",
+      "name": "Listado Perfumes",
+      "icon": "menu-icon tf-icons bx bx-list-ul",
+      "slug": "perfumes.index"
+    },
+    {
+      "url": "#",
+      "name": "Tipos",
+      "icon": "menu-icon tf-icons bx bx-list-ul",
+      "slug": "tipos"
+    },
+    {
+      "menuHeader": "Ventas"
+    },
+    {
+      "url": "/servicios",
+      "name": "Nueva venta",
+      "icon": "menu-icon tf-icons bx bx-list-ul",
+      "slug": "services"
+    },
+    {
+      "url": "#",
+      "name": "Reporte de ventas",
+      "icon": "menu-icon tf-icons bx bx-plus-circle",
+      "slug": "app-email"
+    },
+    {
+      "menuHeader": "Ingresos"
+    },
+    {
+      "url": "#",
+      "name": "Mis Ingresos",
+      "icon": "menu-icon tf-icons bx bx-money",
+      "slug": "app-email"
+    },
+    {
+      "menuHeader": "Otros páginas"
+    },
+    {
+      "url": "",
+      "icon": "menu-icon tf-icons bx bx-user",
+      "name": "Perfil",
+      "slug": "profile"
+    },
+    {
+      "url": "",
+      "icon": "menu-icon tf-icons bx bx-log-out",
+      "name": "Cerrar Sesión",
+      "slug": "profile"
+    }
+  ]
+}
